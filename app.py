@@ -4,7 +4,7 @@ import pandas as pd
 # -------------------------------
 # CONFIG
 # -------------------------------
-APP_PASSWORD = "autoscript123"  # change this before selling
+APP_PASSWORD = "Lex-Aura123%"  # change this before selling
 
 st.set_page_config(page_title="Excel & CSV Data Cleaner", layout="centered")
 
